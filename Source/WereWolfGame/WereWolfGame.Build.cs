@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class WereWolfGameRuntime : ModuleRules
+public class WereWolfGame : ModuleRules
 {
-	public WereWolfGameRuntime(ReadOnlyTargetRules Target) : base(Target)
+	public WereWolfGame(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 		

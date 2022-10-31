@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
-class FWereWolfGameRuntimeModule : public IModuleInterface
+class FWereWolfGameModule : public IModuleInterface
 {
 public:
 	//~IModuleInterface
