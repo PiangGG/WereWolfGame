@@ -38,6 +38,7 @@ public class WereWolfGame : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"LyraGame",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
